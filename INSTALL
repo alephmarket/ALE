@@ -1,0 +1,9 @@
+Building Aleph
+
+See doc/readme-qt.rst for instructions on building Aleph QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Aleph.
+
+See doc/build-*.txt for instructions on building alephd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Aleph.
