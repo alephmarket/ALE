@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Aleph</source>
-        <translation>Acerca de Aleph</translation>
+        <source>About aleph</source>
+        <translation>Acerca de aleph</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Aleph&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Aleph&lt;/b&gt; versión</translation>
+        <source>&lt;b&gt;aleph&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;aleph&lt;/b&gt; versión</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Aleph developers</source>
+Copyright © 2014 The aleph developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Aleph developers</translation>
+Copyright © 2014 The aleph developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -68,8 +68,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Aleph addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Estas son las direcciones de Aleph para recibir pagos. Es posible que desee dar una diferente a cada remitente para que pueda realizar un seguimiento de quien te está pagando.</translation>
+        <source>These are your aleph addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Estas son las direcciones de aleph para recibir pagos. Es posible que desee dar una diferente a cada remitente para que pueda realizar un seguimiento de quien te está pagando.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -83,8 +83,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Aleph address</source>
-        <translation>Firmar un mensaje para demostrar que es dueño de su dirección de Aleph</translation>
+        <source>Sign a message to prove you own a aleph address</source>
+        <translation>Firmar un mensaje para demostrar que es dueño de su dirección de aleph</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -98,8 +98,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Aleph address</source>
-        <translation>Verifique el mensaje para asegurarse que fue firmado por una dirección específica de Aleph</translation>
+        <source>Verify a message to ensure it was signed with a specified aleph address</source>
+        <translation>Verifique el mensaje para asegurarse que fue firmado por una dirección específica de aleph</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -266,8 +266,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-58"/>
-        <source>Aleph will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Aleph cerrará para terminar el proceso de encriptación. Recuerde que la encriptación de su monedero no puede proteger completamente que sus monedas sean robadas por malware infectando su computadora.</translation>
+        <source>aleph will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>aleph cerrará para terminar el proceso de encriptación. Recuerde que la encriptación de su monedero no puede proteger completamente que sus monedas sean robadas por malware infectando su computadora.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -380,8 +380,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Aleph</source>
-        <translation>Mostrar información sobre Aleph</translation>
+        <source>Show information about aleph</source>
+        <translation>Mostrar información sobre aleph</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -430,13 +430,13 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a Aleph address</source>
-        <translation>Enviar monedas a una dirección de Aleph</translation>
+        <source>Send coins to a aleph address</source>
+        <translation>Enviar monedas a una dirección de aleph</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for Aleph</source>
-        <translation>Modificar las opciones de configuración para Aleph</translation>
+        <source>Modify configuration options for aleph</source>
+        <translation>Modificar las opciones de configuración para aleph</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -475,8 +475,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-200"/>
-        <source>Aleph</source>
-        <translation>Aleph</translation>
+        <source>aleph</source>
+        <translation>aleph</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -485,8 +485,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About Aleph</source>
-        <translation>Acerca de Aleph</translation>
+        <source>&amp;About aleph</source>
+        <translation>Acerca de aleph</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -542,13 +542,13 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Aleph client</source>
-        <translation>Cliente Aleph</translation>
+        <source>aleph client</source>
+        <translation>Cliente aleph</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Aleph network</source>
-        <translation><numerusform>%n conexión activa a la red Aleph</numerusform><numerusform>%n conexiones activas a la red Aleph</numerusform></translation>
+        <source>%n active connection(s) to aleph network</source>
+        <translation><numerusform>%n conexión activa a la red aleph</numerusform><numerusform>%n conexiones activas a la red aleph</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -662,8 +662,8 @@ Dirección: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Aleph address or malformed URI parameters.</source>
-        <translation>URI no se puede analizar! Esto puede ser causado por una dirección de Aleph no válida o parámetros de URI malformados.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid aleph address or malformed URI parameters.</source>
+        <translation>URI no se puede analizar! Esto puede ser causado por una dirección de aleph no válida o parámetros de URI malformados.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -722,8 +722,8 @@ Dirección: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Aleph can no longer continue safely and will quit.</source>
-        <translation>Se ha producido un error fatal. Aleph ya no puede continuar de forma segura y cerrará.</translation>
+        <source>A fatal error occurred. aleph can no longer continue safely and will quit.</source>
+        <translation>Se ha producido un error fatal. aleph ya no puede continuar de forma segura y cerrará.</translation>
     </message>
 </context>
 <context>
@@ -1056,8 +1056,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Aleph address.</source>
-        <translation>La dirección introducida &quot;%1&quot; no es una dirección válida de Aleph.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid aleph address.</source>
+        <translation>La dirección introducida &quot;%1&quot; no es una dirección válida de aleph.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1075,8 +1075,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Aleph-Qt</source>
-        <translation>Aleph-Qt</translation>
+        <source>aleph-Qt</source>
+        <translation>aleph-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1148,13 +1148,13 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Aleph after logging in to the system.</source>
-        <translation>Iniciar Aleph automáticamente después de entrar en el sistema.</translation>
+        <source>Automatically start aleph after logging in to the system.</source>
+        <translation>Iniciar aleph automáticamente después de entrar en el sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Aleph on system login</source>
-        <translation>&amp;Iniciar Aleph al inicio del sistema</translation>
+        <source>&amp;Start aleph on system login</source>
+        <translation>&amp;Iniciar aleph al inicio del sistema</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1173,8 +1173,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Aleph client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abrir automáticamente el puerto de cliente Aleph en el router. Esto sólo funciona cuando el router es compatible con UPnP y está habilitado.</translation>
+        <source>Automatically open the aleph client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Abrir automáticamente el puerto de cliente aleph en el router. Esto sólo funciona cuando el router es compatible con UPnP y está habilitado.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1183,8 +1183,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Aleph network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conéctese a la red de Aleph a través de un SOCKS proxy (e.g. cuando se conecta a través de Tor)</translation>
+        <source>Connect to the aleph network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Conéctese a la red de aleph a través de un SOCKS proxy (e.g. cuando se conecta a través de Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1258,8 +1258,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Aleph.</source>
-        <translation>El idioma del interfaz de usuario se puede configurar aquí. Esta configuración se aplicará después de reiniciar Aleph.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting aleph.</source>
+        <translation>El idioma del interfaz de usuario se puede configurar aquí. Esta configuración se aplicará después de reiniciar aleph.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1273,8 +1273,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Aleph addresses in the transaction list or not.</source>
-        <translation>Tanto para mostrar direcciones de Aleph en la lista de transacciones o no.</translation>
+        <source>Whether to show aleph addresses in the transaction list or not.</source>
+        <translation>Tanto para mostrar direcciones de aleph en la lista de transacciones o no.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1320,8 +1320,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Aleph.</source>
-        <translation>Esta configuración se aplicará después de reiniciar Aleph.</translation>
+        <source>This setting will take effect after restarting aleph.</source>
+        <translation>Esta configuración se aplicará después de reiniciar aleph.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1339,8 +1339,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Aleph network after a connection is established, but this process has not completed yet.</source>
-        <translation>La información mostrada puede estar fuera de fecha. Su monedera se sincroniza automáticamente con la red Aleph después de que se establece una conexión, pero este proceso no se ha completado todavía.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the aleph network after a connection is established, but this process has not completed yet.</source>
+        <translation>La información mostrada puede estar fuera de fecha. Su monedera se sincroniza automáticamente con la red aleph después de que se establece una conexión, pero este proceso no se ha completado todavía.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1555,8 +1555,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Aleph-Qt help message to get a list with possible Aleph command-line options.</source>
-        <translation>Mostrar el mensaje de ayuda de Aleph-Qt para obtener una lista con las posibles opciones de línea de comandos para Aleph.</translation>
+        <source>Show the aleph-Qt help message to get a list with possible aleph command-line options.</source>
+        <translation>Mostrar el mensaje de ayuda de aleph-Qt para obtener una lista con las posibles opciones de línea de comandos para aleph.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1575,13 +1575,13 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Aleph - Debug window</source>
-        <translation>Aleph - Ventana de depuración</translation>
+        <source>aleph - Debug window</source>
+        <translation>aleph - Ventana de depuración</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Aleph Core</source>
-        <translation>Núcleo Aleph</translation>
+        <source>aleph Core</source>
+        <translation>Núcleo aleph</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1590,8 +1590,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Aleph debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Abre el archivo de registro de Aleph del directorio de datos actual. Esto puede tardar algunos segundos para archivos grandes.</translation>
+        <source>Open the aleph debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Abre el archivo de registro de aleph del directorio de datos actual. Esto puede tardar algunos segundos para archivos grandes.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1600,8 +1600,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Aleph RPC console.</source>
-        <translation>Bienvenido a la consola RPC de Aleph</translation>
+        <source>Welcome to the aleph RPC console.</source>
+        <translation>Bienvenido a la consola RPC de aleph</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1759,8 +1759,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Aleph address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduce una dirección Aleph (p.ej. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a aleph address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduce una dirección aleph (p.ej. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1859,8 +1859,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Aleph address</source>
-        <translation>ADVERTENCIA: Dirección Aleph inválida</translation>
+        <source>WARNING: Invalid aleph address</source>
+        <translation>ADVERTENCIA: Dirección aleph inválida</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1933,8 +1933,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Aleph address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduce una dirección Aleph (p.ej. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a aleph address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduce una dirección aleph (p.ej. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1994,8 +1994,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Aleph address</source>
-        <translation>Firma el mensaje para demostrar que posees esta dirección Aleph.</translation>
+        <source>Sign the message to prove you own this aleph address</source>
+        <translation>Firma el mensaje para demostrar que posees esta dirección aleph.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2026,8 +2026,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Aleph address</source>
-        <translation>Verifique el mensaje para asegurarse de que se firmó con la dirección Aleph especificada.</translation>
+        <source>Verify the message to ensure it was signed with the specified aleph address</source>
+        <translation>Verifique el mensaje para asegurarse de que se firmó con la dirección aleph especificada.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2037,8 +2037,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Aleph address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introduce una dirección Aleph (p.ej B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a aleph address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introduce una dirección aleph (p.ej B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2047,8 +2047,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Aleph signature</source>
-        <translation>Introduce la firma Aleph</translation>
+        <source>Enter aleph signature</source>
+        <translation>Introduce la firma aleph</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2252,8 +2252,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Generated coins must mature 5 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>Las monedas generadas deben madurar 5 bloques antes de que puedan gastarse. Cuando generaste este bloque, este fue transmitido a la red para ser añadido a la cadena de bloques. Si falla al introducirse en la cadena, su estado cambiará a &quot;no aceptado&quot; y no se podrá gastar. Esto ocasionalmente puede ocurrir si otro nodo genera un bloque a unos segundos que el tuyo.</translation>
+        <source>Generated coins must mature 10 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
+        <translation>Las monedas generadas deben madurar 10 bloques antes de que puedan gastarse. Cuando generaste este bloque, este fue transmitido a la red para ser añadido a la cadena de bloques. Si falla al introducirse en la cadena, su estado cambiará a &quot;no aceptado&quot; y no se podrá gastar. Esto ocasionalmente puede ocurrir si otro nodo genera un bloque a unos segundos que el tuyo.</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2618,8 +2618,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Aleph version</source>
-        <translation>versión Aleph</translation>
+        <source>aleph version</source>
+        <translation>versión aleph</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2681,8 +2681,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Listen for connections on &lt;port&gt; (default: 21717 or testnet: 31717)</source>
-        <translation>Escuchando conexiones en el puerto &lt;port&gt; (por defecto: 21717 o testnet: 31717)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 7449 or testnet: 17449)</source>
+        <translation>Escuchando conexiones en el puerto &lt;port&gt; (por defecto: 7449 o testnet: 17449)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2741,8 +2741,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="-87"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 21718 or testnet: 31718)</source>
-        <translation>Escuchar conexiones JSON-RPC en &lt;port&gt; (predeterminado: 21718 o testnet: 31718)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 7450 or testnet: 17450)</source>
+        <translation>Escuchar conexiones JSON-RPC en &lt;port&gt; (predeterminado: 7450 o testnet: 17450)</translation>
     </message>
     <message>
         <location line="-11"/>
@@ -2809,8 +2809,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Aleph will not work properly.</source>
-        <translation>Advertencia: Verifique que la fecha y hora del equipo sean correctas! Si su reloj es erróneo Aleph no funcionará correctamente.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong aleph will not work properly.</source>
+        <translation>Advertencia: Verifique que la fecha y hora del equipo sean correctas! Si su reloj es erróneo aleph no funcionará correctamente.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3006,7 +3006,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Aleph Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;aleph Alert&quot; admin@foo.com
 </source>
         <translation>%s, debe establecer un rpcpassword en el fichero de configuración:
 %s
@@ -3017,7 +3017,7 @@ rpcpassword=%s
 El nombre de usuario y contraseña no debe ser el mismo.
 Si no existe el archivo, créelo con permisos de sólo lectura para el dueño.
 También se recomienda establecer alertnotify para ser notificado de los problemas;
-por ejemplo: alertnotify=echo %%s | mail -s &quot;Aleph Alert&quot; admin@foo.com
+por ejemplo: alertnotify=echo %%s | mail -s &quot;aleph Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3149,13 +3149,13 @@ por ejemplo: alertnotify=echo %%s | mail -s &quot;Aleph Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Aleph is probably already running.</source>
-        <translation>No se puede obtener un bloqueo en el directorio de datos %s. Aleph probablemente ya esté en funcionamiento.</translation>
+        <source>Cannot obtain a lock on data directory %s.  aleph is probably already running.</source>
+        <translation>No se puede obtener un bloqueo en el directorio de datos %s. aleph probablemente ya esté en funcionamiento.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>Aleph</source>
-        <translation>Aleph</translation>
+        <source>aleph</source>
+        <translation>aleph</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3189,13 +3189,13 @@ por ejemplo: alertnotify=echo %%s | mail -s &quot;Aleph Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Aleph</source>
-        <translation>Error cargando wallet.dat: El monedero requiere una nueva versión de Aleph</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of aleph</source>
+        <translation>Error cargando wallet.dat: El monedero requiere una nueva versión de aleph</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Aleph to complete</source>
-        <translation>El monedero necesita ser reescrito: reinicie Aleph para completar</translation>
+        <source>Wallet needed to be rewritten: restart aleph to complete</source>
+        <translation>El monedero necesita ser reescrito: reinicie aleph para completar</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3264,8 +3264,8 @@ por ejemplo: alertnotify=echo %%s | mail -s &quot;Aleph Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Aleph is probably already running.</source>
-        <translation>No se puede enlazar a %s en este equipo. Aleph probablemente ya esté en funcionamiento.</translation>
+        <source>Unable to bind to %s on this computer. aleph is probably already running.</source>
+        <translation>No se puede enlazar a %s en este equipo. aleph probablemente ya esté en funcionamiento.</translation>
     </message>
     <message>
         <location line="-97"/>

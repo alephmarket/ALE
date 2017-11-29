@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Aleph</source>
-        <translation>O Alephe</translation>
+        <source>About aleph</source>
+        <translation>O alephe</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Aleph&lt;/b&gt; version</source>
-        <translation>verzia &lt;b&gt;Alephu&lt;/b&gt;</translation>
+        <source>&lt;b&gt;aleph&lt;/b&gt; version</source>
+        <translation>verzia &lt;b&gt;alephu&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Aleph developers</source>
+Copyright © 2014 The aleph developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Aleph developers</translation>
+Copyright © 2014 The aleph developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Aleph addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Toto sú vaše Aleph adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, aby ste mohli sledovať, kto Vám platí.</translation>
+        <source>These are your aleph addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Toto sú vaše aleph adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, aby ste mohli sledovať, kto Vám platí.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Aleph address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto Aleph adresu</translation>
+        <source>Sign a message to prove you own a aleph address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto aleph adresu</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Aleph address</source>
-        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou Aleph adresou</translation>
+        <source>Verify a message to ensure it was signed with a specified aleph address</source>
+        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou aleph adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-58"/>
-        <source>Aleph will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Aleph sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
+        <source>aleph will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>aleph sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Aleph</source>
-        <translation>Zobraziť informácie o Aleph</translation>
+        <source>Show information about aleph</source>
+        <translation>Zobraziť informácie o aleph</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a Aleph address</source>
-        <translation>Poslať mince na Aleph adresu</translation>
+        <source>Send coins to a aleph address</source>
+        <translation>Poslať mince na aleph adresu</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for Aleph</source>
-        <translation>Upraviť možnosti konfigurácie pre Aleph</translation>
+        <source>Modify configuration options for aleph</source>
+        <translation>Upraviť možnosti konfigurácie pre aleph</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-200"/>
-        <source>Aleph</source>
-        <translation>Aleph</translation>
+        <source>aleph</source>
+        <translation>aleph</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About Aleph</source>
-        <translation>&amp;O Aleph</translation>
+        <source>&amp;About aleph</source>
+        <translation>&amp;O aleph</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Aleph client</source>
-        <translation>Aleph klient</translation>
+        <source>aleph client</source>
+        <translation>aleph klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Aleph network</source>
-        <translation><numerusform>%n aktívne spojenie s Aleph sieťov</numerusform><numerusform>%n aktívnych spojení s Aleph sieťov</numerusform><numerusform>%n aktívnych spojení s Aleph sieťou</numerusform></translation>
+        <source>%n active connection(s) to aleph network</source>
+        <translation><numerusform>%n aktívne spojenie s aleph sieťov</numerusform><numerusform>%n aktívnych spojení s aleph sieťov</numerusform><numerusform>%n aktívnych spojení s aleph sieťou</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -658,8 +658,8 @@ Adresa: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Aleph address or malformed URI parameters.</source>
-        <translation>URI nemožno analyzovať! Toto môže byť spôsobené neplatnou Aleph adresu alebo chybnými URI parametrami.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid aleph address or malformed URI parameters.</source>
+        <translation>URI nemožno analyzovať! Toto môže byť spôsobené neplatnou aleph adresu alebo chybnými URI parametrami.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -718,8 +718,8 @@ Adresa: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Aleph can no longer continue safely and will quit.</source>
-        <translation>Došlo k závažnej chybe. Aleph už nemôže pokračovať bezpečne a bude ukončený.</translation>
+        <source>A fatal error occurred. aleph can no longer continue safely and will quit.</source>
+        <translation>Došlo k závažnej chybe. aleph už nemôže pokračovať bezpečne a bude ukončený.</translation>
     </message>
 </context>
 <context>
@@ -1052,8 +1052,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Aleph address.</source>
-        <translation>Zadaná adresa &quot;%1&quot; nie je platnou Aleph adresou.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid aleph address.</source>
+        <translation>Zadaná adresa &quot;%1&quot; nie je platnou aleph adresou.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1071,8 +1071,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Aleph-Qt</source>
-        <translation>Aleph-Qt</translation>
+        <source>aleph-Qt</source>
+        <translation>aleph-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1144,13 +1144,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Aleph after logging in to the system.</source>
-        <translation>Automaticky spustiť Aleph po prihlásení sa do systému.</translation>
+        <source>Automatically start aleph after logging in to the system.</source>
+        <translation>Automaticky spustiť aleph po prihlásení sa do systému.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Aleph on system login</source>
-        <translation>&amp;Spustiť Aleph pri prihlásení do systému</translation>
+        <source>&amp;Start aleph on system login</source>
+        <translation>&amp;Spustiť aleph pri prihlásení do systému</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1169,8 +1169,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Aleph client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automaticky otvoriť port klienta Aleph na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
+        <source>Automatically open the aleph client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automaticky otvoriť port klienta aleph na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1179,8 +1179,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Aleph network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Pripojenie k sieti Aleph cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
+        <source>Connect to the aleph network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Pripojenie k sieti aleph cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1254,8 +1254,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Aleph.</source>
-        <translation>Tu môžete nastaviť jazyk používateľského rozhrania. Toto nastavenie sa prejaví až po reštartovaní Aleph.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting aleph.</source>
+        <translation>Tu môžete nastaviť jazyk používateľského rozhrania. Toto nastavenie sa prejaví až po reštartovaní aleph.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1269,8 +1269,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Aleph addresses in the transaction list or not.</source>
-        <translation>Či chcete zobraziť Aleph adresy v zozname transakcií alebo nie.</translation>
+        <source>Whether to show aleph addresses in the transaction list or not.</source>
+        <translation>Či chcete zobraziť aleph adresy v zozname transakcií alebo nie.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1316,8 +1316,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Aleph.</source>
-        <translation>Toto nastavenie sa prejaví až po reštartovaní Aleph.</translation>
+        <source>This setting will take effect after restarting aleph.</source>
+        <translation>Toto nastavenie sa prejaví až po reštartovaní aleph.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1335,8 +1335,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Aleph network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou Aleph po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the aleph network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou aleph po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1551,8 +1551,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Aleph-Qt help message to get a list with possible Aleph command-line options.</source>
-        <translation>Zobraziť Aleph-Qt nápovedu k získaniu zoznamu pre možnosti  príkazového riadku Aleph.</translation>
+        <source>Show the aleph-Qt help message to get a list with possible aleph command-line options.</source>
+        <translation>Zobraziť aleph-Qt nápovedu k získaniu zoznamu pre možnosti  príkazového riadku aleph.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1571,13 +1571,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Aleph - Debug window</source>
-        <translation>Aleph - Ladiace okno</translation>
+        <source>aleph - Debug window</source>
+        <translation>aleph - Ladiace okno</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Aleph Core</source>
-        <translation>Jadro Aleph</translation>
+        <source>aleph Core</source>
+        <translation>Jadro aleph</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1586,8 +1586,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Aleph debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otvorte Aleph súbor denníku ladenia z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory denníka.</translation>
+        <source>Open the aleph debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otvorte aleph súbor denníku ladenia z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory denníka.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1596,8 +1596,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Aleph RPC console.</source>
-        <translation>Vitajte v konzole Aleph RPC.</translation>
+        <source>Welcome to the aleph RPC console.</source>
+        <translation>Vitajte v konzole aleph RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1755,8 +1755,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Aleph address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte Aleph adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a aleph address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadajte aleph adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1855,8 +1855,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Aleph address</source>
-        <translation>UPOZORNENIE: Neplatná Aleph adresa</translation>
+        <source>WARNING: Invalid aleph address</source>
+        <translation>UPOZORNENIE: Neplatná aleph adresa</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1929,8 +1929,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Aleph address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte Aleph adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a aleph address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadajte aleph adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1990,8 +1990,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Aleph address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto Aleph adresu</translation>
+        <source>Sign the message to prove you own this aleph address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto aleph adresu</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2022,8 +2022,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Aleph address</source>
-        <translation>Overte správu, aby ste sa ubezpečili, že bola podpísaná s danou Aleph adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified aleph address</source>
+        <translation>Overte správu, aby ste sa ubezpečili, že bola podpísaná s danou aleph adresou</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2033,8 +2033,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Aleph address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte Aleph adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a aleph address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadajte aleph adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2043,8 +2043,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Aleph signature</source>
-        <translation>Zadajte Aleph podpis</translation>
+        <source>Enter aleph signature</source>
+        <translation>Zadajte aleph podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2248,8 +2248,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Generated coins must mature 5 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>Generované mince musia zrieť 5 blokov pred tým, než môžu byť použité. Keď sa vygeneroval tento blok, bol vysielaný do siete, kde má byť pridaný do reťazca blokov. Ak sa nepodarí dostať ho do reťazca blokov, jeho stav sa zmení na &quot;Neprijatý&quot;, a nebude použiteľný. Toto sa môže občas stať, ak iný uzol generuje blok v priebehu niekoľkých sekúnd pred Vami.</translation>
+        <source>Generated coins must mature 10 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
+        <translation>Generované mince musia zrieť 10 blokov pred tým, než môžu byť použité. Keď sa vygeneroval tento blok, bol vysielaný do siete, kde má byť pridaný do reťazca blokov. Ak sa nepodarí dostať ho do reťazca blokov, jeho stav sa zmení na &quot;Neprijatý&quot;, a nebude použiteľný. Toto sa môže občas stať, ak iný uzol generuje blok v priebehu niekoľkých sekúnd pred Vami.</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2614,8 +2614,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Aleph version</source>
-        <translation>Aleph verzia</translation>
+        <source>aleph version</source>
+        <translation>aleph verzia</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2674,8 +2674,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Listen for connections on &lt;port&gt; (default: 21717 or testnet: 31717)</source>
-        <translation>Počúvať pripojenia na &lt;port&gt; (predvolené: 21717 alebo testovacia sieť: 31717)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 7449 or testnet: 17449)</source>
+        <translation>Počúvať pripojenia na &lt;port&gt; (predvolené: 7449 alebo testovacia sieť: 17449)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2734,8 +2734,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="-87"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 21718 or testnet: 31718)</source>
-        <translation>Počúvajte pre JSON-RPC spojenie na &lt;port&gt; (predvolené: 21718 alebo testovaciasieť: 31718)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 7450 or testnet: 17450)</source>
+        <translation>Počúvajte pre JSON-RPC spojenie na &lt;port&gt; (predvolené: 7450 alebo testovaciasieť: 17450)</translation>
     </message>
     <message>
         <location line="-11"/>
@@ -2799,8 +2799,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Aleph will not work properly.</source>
-        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny Aleph nebude pracovať správne.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong aleph will not work properly.</source>
+        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny aleph nebude pracovať správne.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2995,7 +2995,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Aleph Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;aleph Alert&quot; admin@foo.com
 </source>
         <translation>%s, musíte nastaviť rpcpassword v konfiguračnom súbore:
  %s
@@ -3006,7 +3006,7 @@ rpcpassword=%s
 Užívateľské meno a heslo nesmú byť rovnaké. 
 Ak súbor neexistuje, vytvorte ho s oprávneniami súborov vlastníkov iba na čítatanie.
 Odporúča sa tiež nastaviť alertnotify, takže budete upozornení na problémy;
-napríklad: alertnotify=echo %%s | mail -s &quot;Aleph Alert&quot; admin@foo.com</translation>
+napríklad: alertnotify=echo %%s | mail -s &quot;aleph Alert&quot; admin@foo.com</translation>
     </message>
     <message>
         <location line="+51"/>
@@ -3130,13 +3130,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;Aleph Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Aleph is probably already running.</source>
-        <translation>Nemožno získať zámok na dátový adresár %s. Aleph už pravdepodobne beží.</translation>
+        <source>Cannot obtain a lock on data directory %s.  aleph is probably already running.</source>
+        <translation>Nemožno získať zámok na dátový adresár %s. aleph už pravdepodobne beží.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>Aleph</source>
-        <translation>Aleph</translation>
+        <source>aleph</source>
+        <translation>aleph</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3170,13 +3170,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;Aleph Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Aleph</source>
-        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu Aleph</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of aleph</source>
+        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu aleph</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Aleph to complete</source>
-        <translation>Peňaženka potrebuje byť prepísaná: reštartujte Aleph k dokončeniu</translation>
+        <source>Wallet needed to be rewritten: restart aleph to complete</source>
+        <translation>Peňaženka potrebuje byť prepísaná: reštartujte aleph k dokončeniu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3245,8 +3245,8 @@ napríklad: alertnotify=echo %%s | mail -s &quot;Aleph Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Aleph is probably already running.</source>
-        <translation>Nemôžem sa pripojiť na %s na tomto počítači. Aleph je pravdepodobne už beží.</translation>
+        <source>Unable to bind to %s on this computer. aleph is probably already running.</source>
+        <translation>Nemôžem sa pripojiť na %s na tomto počítači. aleph je pravdepodobne už beží.</translation>
     </message>
     <message>
         <location line="-97"/>

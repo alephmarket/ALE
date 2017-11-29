@@ -45,9 +45,9 @@ QString BitcoinUnits::description(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("Alephs");
-    case mBTC: return QString("Milli-Alephs (1 / 1,000)");
-    case uBTC: return QString("Micro-Alephs (1 / 1,000,000)");
+    case BTC: return QString("alephs");
+    case mBTC: return QString("Milli-alephs (1 / 1,000)");
+    case uBTC: return QString("Micro-alephs (1 / 1,000,000)");
     default: return QString("???");
     }
 }

@@ -1,8 +1,8 @@
 #ifndef QTIPCSERVER_H
 #define QTIPCSERVER_H
 
-// Define Aleph-Qt message queue name
-#define BITCOINURI_QUEUE_NAME "AlephURI"
+// Define aleph-Qt message queue name
+#define BITCOINURI_QUEUE_NAME "alephURI"
 
 void ipcScanRelay(int argc, char *argv[]);
 void ipcInit(int argc, char *argv[]);

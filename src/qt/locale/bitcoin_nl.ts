@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Aleph</source>
-        <translation>Over Aleph</translation>
+        <source>About aleph</source>
+        <translation>Over aleph</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Aleph&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Aleph&lt;/b&gt; versie</translation>
+        <source>&lt;b&gt;aleph&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;aleph&lt;/b&gt; versie</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Aleph developers</source>
+Copyright © 2014 The aleph developers</source>
         <translation>Copyright © 2009-2014 De Bitcoin ontwikkelaars
 Copyright © 2012-2014 De NovaCoin ontwikkelaars
-Copyright © 2014 De Aleph ontwikkelaars</translation>
+Copyright © 2014 De aleph ontwikkelaars</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Aleph addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dit zijn al jou Aleph adressen om betalingen mee te ontvangen. Je kunt iedere verzender een apart adres geven zodat je kunt volgen wie jou betaald.</translation>
+        <source>These are your aleph addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dit zijn al jou aleph adressen om betalingen mee te ontvangen. Je kunt iedere verzender een apart adres geven zodat je kunt volgen wie jou betaald.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Aleph address</source>
-        <translation>Teken een bericht om te bewijzen dat je een Aleph adres bezit.</translation>
+        <source>Sign a message to prove you own a aleph address</source>
+        <translation>Teken een bericht om te bewijzen dat je een aleph adres bezit.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Aleph address</source>
-        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek Aleph adres</translation>
+        <source>Verify a message to ensure it was signed with a specified aleph address</source>
+        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek aleph adres</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-58"/>
-        <source>Aleph will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Aleph zal nu sluiten om het versleutel proces te voltooien. Onthou dat het versleutelen van je portemonnee je niet volledig beschermt tegen diefstal van munten door malware op je computer.</translation>
+        <source>aleph will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>aleph zal nu sluiten om het versleutel proces te voltooien. Onthou dat het versleutelen van je portemonnee je niet volledig beschermt tegen diefstal van munten door malware op je computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Aleph</source>
-        <translation>Toon informatie over Aleph</translation>
+        <source>Show information about aleph</source>
+        <translation>Toon informatie over aleph</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a Aleph address</source>
-        <translation>Verstuur munten naar een Aleph adres</translation>
+        <source>Send coins to a aleph address</source>
+        <translation>Verstuur munten naar een aleph adres</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for Aleph</source>
-        <translation>Verander configuratie opties voor Aleph</translation>
+        <source>Modify configuration options for aleph</source>
+        <translation>Verander configuratie opties voor aleph</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-200"/>
-        <source>Aleph</source>
-        <translation>Aleph</translation>
+        <source>aleph</source>
+        <translation>aleph</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About Aleph</source>
-        <translation>&amp;Over Aleph</translation>
+        <source>&amp;About aleph</source>
+        <translation>&amp;Over aleph</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Aleph client</source>
-        <translation>Aleph client</translation>
+        <source>aleph client</source>
+        <translation>aleph client</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Aleph network</source>
-        <translation><numerusform>%n actieve verbinding naar Aleph netwerk</numerusform><numerusform>%n actieve verbindingen naar Aleph netwerk</numerusform></translation>
+        <source>%n active connection(s) to aleph network</source>
+        <translation><numerusform>%n actieve verbinding naar aleph netwerk</numerusform><numerusform>%n actieve verbindingen naar aleph netwerk</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -659,8 +659,8 @@ Adres: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Aleph address or malformed URI parameters.</source>
-        <translation>URI kan niet ontleedt worden! Mogelijke oorzaken zijn een ongeldig Aleph adres of incorrecte URI parameters.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid aleph address or malformed URI parameters.</source>
+        <translation>URI kan niet ontleedt worden! Mogelijke oorzaken zijn een ongeldig aleph adres of incorrecte URI parameters.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -719,8 +719,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Aleph can no longer continue safely and will quit.</source>
-        <translation>Een fatale fout . Aleph kan niet langer veilig doorgaan en sluit af.</translation>
+        <source>A fatal error occurred. aleph can no longer continue safely and will quit.</source>
+        <translation>Een fatale fout . aleph kan niet langer veilig doorgaan en sluit af.</translation>
     </message>
 </context>
 <context>
@@ -1053,8 +1053,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Aleph address.</source>
-        <translation>Het ingevoerde adres &quot;%1&quot; is geen geldig Aleph adres.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid aleph address.</source>
+        <translation>Het ingevoerde adres &quot;%1&quot; is geen geldig aleph adres.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1072,8 +1072,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Aleph-Qt</source>
-        <translation>Aleph-Qt</translation>
+        <source>aleph-Qt</source>
+        <translation>aleph-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1145,13 +1145,13 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Aleph after logging in to the system.</source>
-        <translation>Automatisch starten van Aleph na inloggen van het systeem.</translation>
+        <source>Automatically start aleph after logging in to the system.</source>
+        <translation>Automatisch starten van aleph na inloggen van het systeem.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Aleph on system login</source>
-        <translation>&amp;Start Aleph bij systeem aanmelding</translation>
+        <source>&amp;Start aleph on system login</source>
+        <translation>&amp;Start aleph bij systeem aanmelding</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1170,8 +1170,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Aleph client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>De Aleph client poort automatisch openen op de router. Dit werkt alleen wanneer uw router UPnP ondersteunt en deze is ingeschakeld.</translation>
+        <source>Automatically open the aleph client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>De aleph client poort automatisch openen op de router. Dit werkt alleen wanneer uw router UPnP ondersteunt en deze is ingeschakeld.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1180,8 +1180,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Aleph network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Verbinding maken met het Aleph netwerk via een SOCKS proxy (bijvoorbeeld als U gebruik maakt van Tor)</translation>
+        <source>Connect to the aleph network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Verbinding maken met het aleph netwerk via een SOCKS proxy (bijvoorbeeld als U gebruik maakt van Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1255,8 +1255,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Aleph.</source>
-        <translation>De user interface-taal kan hier ingesteld worden. Deze instelling word toegepast na Aleph opnieuw op te starten.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting aleph.</source>
+        <translation>De user interface-taal kan hier ingesteld worden. Deze instelling word toegepast na aleph opnieuw op te starten.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1270,8 +1270,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Aleph addresses in the transaction list or not.</source>
-        <translation>Aleph adressen in de transactielijst weergeven of niet</translation>
+        <source>Whether to show aleph addresses in the transaction list or not.</source>
+        <translation>aleph adressen in de transactielijst weergeven of niet</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1317,8 +1317,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Aleph.</source>
-        <translation>Deze instelling word toegepast na een restart van Aleph.</translation>
+        <source>This setting will take effect after restarting aleph.</source>
+        <translation>Deze instelling word toegepast na een restart van aleph.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1336,8 +1336,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Aleph network after a connection is established, but this process has not completed yet.</source>
-        <translation>De weergegeven informatie kan verouderd zijn, Je portemonnee synchroniseerd automatisch met het Aleph netwerk nadat er verbindig is gemaakt, maar dit proces is nog niet voltooid.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the aleph network after a connection is established, but this process has not completed yet.</source>
+        <translation>De weergegeven informatie kan verouderd zijn, Je portemonnee synchroniseerd automatisch met het aleph netwerk nadat er verbindig is gemaakt, maar dit proces is nog niet voltooid.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1552,8 +1552,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Aleph-Qt help message to get a list with possible Aleph command-line options.</source>
-        <translation>Laat het Aleph-QT help bericht zien om een lijst te krijgen met mogelijke Aleph command-regel opties.</translation>
+        <source>Show the aleph-Qt help message to get a list with possible aleph command-line options.</source>
+        <translation>Laat het aleph-QT help bericht zien om een lijst te krijgen met mogelijke aleph command-regel opties.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1572,13 +1572,13 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Aleph - Debug window</source>
-        <translation>Aleph - Debugscherm</translation>
+        <source>aleph - Debug window</source>
+        <translation>aleph - Debugscherm</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Aleph Core</source>
-        <translation>Aleph Kern</translation>
+        <source>aleph Core</source>
+        <translation>aleph Kern</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1587,8 +1587,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Aleph debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open het Aleph debug log bestand van de huidige data map. Dit kan een paar seconden duren voor grote log bestanden.</translation>
+        <source>Open the aleph debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open het aleph debug log bestand van de huidige data map. Dit kan een paar seconden duren voor grote log bestanden.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1597,8 +1597,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Aleph RPC console.</source>
-        <translation>Welkom bij de Aleph RPC console.</translation>
+        <source>Welcome to the aleph RPC console.</source>
+        <translation>Welkom bij de aleph RPC console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1756,8 +1756,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Aleph address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Voeg een Aleph adres in (bijv. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a aleph address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Voeg een aleph adres in (bijv. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1856,8 +1856,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Aleph address</source>
-        <translation>WAARSCHUWING: Ongeldig Aleph adres</translation>
+        <source>WARNING: Invalid aleph address</source>
+        <translation>WAARSCHUWING: Ongeldig aleph adres</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1930,8 +1930,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Aleph address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Voeg een Aleph adres in (bijv. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a aleph address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Voeg een aleph adres in (bijv. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1991,8 +1991,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Aleph address</source>
-        <translation>Teken een bericht om te bewijzen dat je een Aleph adres bezit.</translation>
+        <source>Sign the message to prove you own this aleph address</source>
+        <translation>Teken een bericht om te bewijzen dat je een aleph adres bezit.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2023,8 +2023,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Aleph address</source>
-        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek Aleph adres</translation>
+        <source>Verify the message to ensure it was signed with the specified aleph address</source>
+        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek aleph adres</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2034,8 +2034,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Aleph address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Voeg een Aleph adres in (bijv. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a aleph address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Voeg een aleph adres in (bijv. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2044,8 +2044,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Aleph signature</source>
-        <translation>Voer Aleph handtekening in</translation>
+        <source>Enter aleph signature</source>
+        <translation>Voer aleph handtekening in</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2249,8 +2249,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Generated coins must mature 5 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>Gegenereerd munten moeten 5 blokken maturen voordat ze kunnen worden besteed. Wanneer je een blok genereerd, het naar het netwerk is verzonden en toegevoegd aan de blokketen, zal de status veranderen naar &quot;niet geaccepteerd&quot;and kan het niet uitgegeven worden.  Dit kan soms gebeuren als een ander knooppunt genereert een blok binnen een paar seconden na jou.</translation>
+        <source>Generated coins must mature 10 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
+        <translation>Gegenereerd munten moeten 10 blokken maturen voordat ze kunnen worden besteed. Wanneer je een blok genereerd, het naar het netwerk is verzonden en toegevoegd aan de blokketen, zal de status veranderen naar &quot;niet geaccepteerd&quot;and kan het niet uitgegeven worden.  Dit kan soms gebeuren als een ander knooppunt genereert een blok binnen een paar seconden na jou.</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2615,8 +2615,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Aleph version</source>
-        <translation>Aleph versie</translation>
+        <source>aleph version</source>
+        <translation>aleph versie</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2675,8 +2675,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Listen for connections on &lt;port&gt; (default: 21717 or testnet: 31717)</source>
-        <translation>Luister voor verbindingen op &lt;poort&gt; (standaard: 21717 of testnet: 31717)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 7449 or testnet: 17449)</source>
+        <translation>Luister voor verbindingen op &lt;poort&gt; (standaard: 7449 of testnet: 17449)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2735,8 +2735,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="-87"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 21718 or testnet: 31718)</source>
-        <translation>Wacht op JSON-RPC-connecties op &lt;poort&gt; (standaard: 21718 of testnet: 31718) </translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 7450 or testnet: 17450)</source>
+        <translation>Wacht op JSON-RPC-connecties op &lt;poort&gt; (standaard: 7450 of testnet: 17450) </translation>
     </message>
     <message>
         <location line="-11"/>
@@ -2800,8 +2800,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Aleph will not work properly.</source>
-        <translation>Waarschuwing: Controleer of de datum en tijd van de computer juist zijn! Als uw klok verkeerd is Aleph zal niet goed werken.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong aleph will not work properly.</source>
+        <translation>Waarschuwing: Controleer of de datum en tijd van de computer juist zijn! Als uw klok verkeerd is aleph zal niet goed werken.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2996,7 +2996,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Aleph Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;aleph Alert&quot; admin@foo.com
 </source>
         <translation>%s, u moet een rpcpassword instellen in het configuratiebestand: 
 %s 
@@ -3007,7 +3007,7 @@ rpcpassword = %s
 De gebruikersnaam en het wachtwoord MAG NIET hetzelfde zijn. 
 Als het bestand niet bestaat, maakt u met leesbare-alleen-eigenaar bestandsbeheermachtigingen.  
 Het wordt ook aanbevolen om alertnotify instellen zodat u een melding van problemen;  
-bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;Aleph Alert&quot; admin@foo.com </translation>
+bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;aleph Alert&quot; admin@foo.com </translation>
     </message>
     <message>
         <location line="+51"/>
@@ -3131,13 +3131,13 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;Aleph Alert&quot; admin@foo
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Aleph is probably already running.</source>
-        <translation>Kan een slot op data directory %s niet verkrijgen. Aleph wordt waarschijnlijk al uitgevoerd.</translation>
+        <source>Cannot obtain a lock on data directory %s.  aleph is probably already running.</source>
+        <translation>Kan een slot op data directory %s niet verkrijgen. aleph wordt waarschijnlijk al uitgevoerd.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>Aleph</source>
-        <translation>Aleph</translation>
+        <source>aleph</source>
+        <translation>aleph</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3171,13 +3171,13 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;Aleph Alert&quot; admin@foo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Aleph</source>
-        <translation>Fout bij laden van wallet.dat: Portemonnee vereist een nieuwere versie van Aleph</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of aleph</source>
+        <translation>Fout bij laden van wallet.dat: Portemonnee vereist een nieuwere versie van aleph</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Aleph to complete</source>
-        <translation>Portemonnee moet herschreven worden: herstart Aleph om te voltooien</translation>
+        <source>Wallet needed to be rewritten: restart aleph to complete</source>
+        <translation>Portemonnee moet herschreven worden: herstart aleph om te voltooien</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3246,8 +3246,8 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;Aleph Alert&quot; admin@foo
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Aleph is probably already running.</source>
-        <translation>Niet mogelijk om %s op deze computer. Aleph is waarschijnlijk al geopened.</translation>
+        <source>Unable to bind to %s on this computer. aleph is probably already running.</source>
+        <translation>Niet mogelijk om %s op deze computer. aleph is waarschijnlijk al geopened.</translation>
     </message>
     <message>
         <location line="-97"/>
